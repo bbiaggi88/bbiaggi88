@@ -26,19 +26,15 @@ With a certificate in Data Science & Data Analytics from UC Santa Cruz, **I've c
 
 ### House Price Prediction
 
-![Project 1 Screenshot](project_1_screenshot_url)
-
 **House Price Prediction** is a **machine learning project** built with **Python and various libraries such as Pandas, NumPy, Scikit-learn, and XGBoost.**
 
 This project demonstrates my ability to **perform data analysis, data preprocessing, and model building for predictive modeling tasks.**
 
 The project involves exploring a dataset containing information about house prices, **conducting feature selection, data preprocessing, training and evaluating multiple regression models to predict house prices.** 
 
-You can check out the repository [here](project_1_repository_link).
+You can check out the repository [here](https://github.com/bbiaggi88/house_price_prediction).
 
 ### Customer Segmentation
-
-![Project 2 Screenshot](project_2_screenshot_url)
 
 **Customer Segmentation** is a **machine learning project focused on segmenting customers in a grocery firm's database** built with **Python and popular libraries such as Pandas, Scikit-learn, and Seaborn**.
 
@@ -46,12 +42,7 @@ This project showcases my skills in **data preprocessing, unsupervised learning 
 
 **By analyzing customer data and identifying distinct segments based on income, spending habits, and family structures,** this project demonstrates my ability to derive actionable insights from data for marketing strategy optimization.
 
-You can check out the repository [here](project_2_repository_link).
-
-## Get in Touch 📬
-
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+You can check out the repository [here](https://github.com/bbiaggi88/customer_segmentation).
 
 <!---
 bbiaggi88/bbiaggi88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
