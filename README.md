@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a **Data Science enthusiast** who transitioned from a career as a Chef in Lima, Peru, to pursue my passion for **leveraging data to solve complex problems.** 
+I'm a **Data Scientist** who transitioned from a career as a Chef in Lima, Peru, to pursue my passion for **leveraging data to solve complex problems.** 
 
 With a certificate in Data Science & Data Analytics from UC Santa Cruz, **I've cultivated a strong foundation for my journey into the world of Data Science.**
 
