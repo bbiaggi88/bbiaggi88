@@ -22,28 +22,6 @@ With a certificate in Data Science & Data Analytics from UC Santa Cruz, **I've c
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## Featured Projects 💻
-
-### House Price Prediction
-
-**House Price Prediction** is a **machine learning project** built with **Python and various libraries such as Pandas, NumPy, Scikit-learn, and XGBoost.**
-
-This project demonstrates my ability to **perform data analysis, data preprocessing, and model building for predictive modeling tasks.**
-
-The project involves exploring a dataset containing information about house prices, **conducting feature selection, data preprocessing, training and evaluating multiple regression models to predict house prices.** 
-
-You can check out the repository [here](https://github.com/bbiaggi88/house_price_prediction).
-
-### Customer Segmentation
-
-**Customer Segmentation** is a **machine learning project focused on segmenting customers in a grocery firm's database** built with **Python and popular libraries such as Pandas, Scikit-learn, and Seaborn**.
-
-This project showcases my skills in **data preprocessing, unsupervised learning techniques such as clustering, and data visualization.**
-
-**By analyzing customer data and identifying distinct segments based on income, spending habits, and family structures,** this project demonstrates my ability to derive actionable insights from data for marketing strategy optimization.
-
-You can check out the repository [here](https://github.com/bbiaggi88/customer_segmentation).
-
 <!---
 bbiaggi88/bbiaggi88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
