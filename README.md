@@ -1,6 +1,6 @@
 # Hi there, I'm Bruno Biaggi! 👋
 
-## About Me 🚀
+## About Me
 
 I'm a **Data Scientist** who transitioned from a career as a Chef in Lima, Peru, to pursue my passion for **leveraging data to solve complex problems.** 
 
