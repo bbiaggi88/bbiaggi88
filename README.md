@@ -1,8 +1,8 @@
 # Hi, I'm Bruno! 👋
 
-I'm a Data Analytics professional with a passion for transforming raw data into actionable insights.
+I'm a Computer Science student at De Anza College with a strong interest in AI/ML and Web Development. I'm focused on building a solid foundation and finding opportunities to work on projects that have real impact. 
 
-Recently relocated from Peru to the US, I love exploring how data can drive strategic decision-making and communicating complex findings to diverse audiences.
+Always looking to learn, grow, and connect with people who share that same drive.
 
 <!---
 bbiaggi88/bbiaggi88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
